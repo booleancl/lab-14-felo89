@@ -1,0 +1,20 @@
+{
+  "name": "javascript-lab14",
+  "version": "1.0.0",
+  "description": "## Módulo 5: Javascript en el Servidor Conocer las diferentes posibilidades de Javascript en el Servidor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booleancl/javascript-lab14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booleancl/javascript-lab14/issues"
+  },
+  "homepage": "https://github.com/booleancl/javascript-lab14#readme"
+}
